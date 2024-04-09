@@ -1,1 +1,1 @@
-console.log("Yolo:", new Date().toLocaleString());
+console.log("Script2:", new Date().toLocaleString());
